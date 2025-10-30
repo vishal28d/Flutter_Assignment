@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   static const _baseUrl = "https://api.mytravaly.com/public/v1/";
-  static const _authToken = "71523fdd8d26f585315b4233e39d9263";
+  static const _authToken = "Auth_Token";
 
   static Future<List<dynamic>> fetchHotels({
     required String visitorToken,

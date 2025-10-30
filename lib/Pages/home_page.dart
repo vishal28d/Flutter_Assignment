@@ -15,7 +15,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   final TextEditingController _searchController = TextEditingController();
-  String visitorToken = '4501-0fe3-6c8e-9115-078f-a3b6-ed45-eb1d';
+  String visitorToken = 'add_visitor_token';
   late Future<List<dynamic>> hotelsFuture;
   String _city = "Mumbai";
 
