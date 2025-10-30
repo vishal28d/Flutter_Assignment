@@ -98,7 +98,7 @@ flutter run
 
 ## ⚙️ Folder Structure
 
-
+```
 lib/
 │
 ├── main.dart                # Entry point
@@ -114,7 +114,7 @@ lib/
 │
 └── Widgets/
     └── hotel_card.dart      # Reusable card widget for hotel UI
-
+```
 
 ## 🧠 Notes
 
